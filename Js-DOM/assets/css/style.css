@@ -1,0 +1,13 @@
+.active-head{
+    background-color: blue;
+    color: aliceblue;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.inActive-head{
+    background-color: beige;
+    color: blueviolet;
+    border: 1px solid whitesmoke;
+    padding: 10px;
+}
